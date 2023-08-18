@@ -52,5 +52,23 @@
         "requires": "^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl": "https://discord.gg/kwYBYEg4uu",
+    "provider": "PiggyPlugins",
+    "name": "OneTickSwitcher",
+    "packageId": "OneTickSwitcher",
+    "description": "One Tick Switcher plugin",
+    "mainClassName": "OneTickSwitcherPlugin",
+    "id": "one-tick-switcher",
+    "releases": [
+      {
+        "date": "2023-08-18",
+        "sha512sum": "3A94423426F756B825A6EDAD78558D7D7176CF4D694B63B5F0E134EAB55A4B23280FE79CB198A4E7396A4C51B2F9779BB5D3225E5AA2B92290E530A6A9372F12",
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/one-tick-switcher-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
   }
 ]
