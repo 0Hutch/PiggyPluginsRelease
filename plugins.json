@@ -1,0 +1,56 @@
+[
+  {
+    "projectUrl": "https://discord.gg/kwYBYEg4uu",
+    "provider": "PiggyPlugins",
+    "name": "PacketUtilsPlugin",
+    "packageId": "PacketUtils",
+    "description": "PacketUtilsPlugin, required to run PiggyPlugins",
+    "mainClassName": "PacketUtilsPlugin",
+    "id": "packet-utils-plugin",
+    "releases": [
+      {
+        "date": "2023-08-18",
+        "sha512sum": "5EA438A32A8A66AE398FE65DBBC0DDA3B173E3A5B2BEC87D4702D7A7C7CC9A398F83D9B217208901DD8A6D35D1B15069F726A6FB484CB837DA689F53E6B030AF",
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/packet-utils-plugin-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/kwYBYEg4uu",
+    "provider": "PiggyPlugins",
+    "name": "EthanApiPlugin",
+    "packageId": "EthanApiPlugin",
+    "description": "EthanApiPlugin, required to run PiggyPlugins",
+    "mainClassName": "EthanApiPlugin",
+    "id": "ethan-api-plugin",
+    "releases": [
+      {
+        "date": "2023-08-18",
+        "sha512sum": "FC48B1237EA69B7B13685920F51BE03F02C549324270CE7A40BB02A750C82BA27F5114D8E079384CEE54D801F1B299670931AE2C8AFA96CB60B67ECBB86AD1D6",
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/ethan-api-plugin-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/kwYBYEg4uu",
+    "provider": "PiggyPlugins",
+    "name": "PiggyUtils",
+    "packageId": "PiggyUtils",
+    "description": "PiggyUtilsPlugin, required to run PiggyPlugins",
+    "mainClassName": "PiggyUtilsPlugin",
+    "id": "piggy-utils-plugin",
+    "releases": [
+      {
+        "date": "2023-08-18",
+        "sha512sum": "72EC2EF8BF1DCEBA36A45A207018BF34CE033C5D8C20615CED91CC39E76EF2C2B8FCB33DC0E8B75D9A73400730A71007E934A8AACEC184C2D194E5B5F71AEB99",
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/piggy-utils-plugin-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  }
+]
