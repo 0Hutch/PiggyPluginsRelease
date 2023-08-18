@@ -1,12 +1,8 @@
 [
   {
-    "projectUrl": "https://discord.gg/kwYBYEg4uu",
-    "provider": "PiggyPlugins",
     "name": "PacketUtilsPlugin",
     "packageId": "PacketUtils",
-    "description": "PacketUtilsPlugin, required to run PiggyPlugins",
     "mainClassName": "PacketUtilsPlugin",
-    "id": "packet-utils-plugin",
     "releases": [
       {
         "date": "2023-08-18",
@@ -18,17 +14,11 @@
     ]
   },
   {
-    "projectUrl": "https://discord.gg/kwYBYEg4uu",
-    "provider": "PiggyPlugins",
     "name": "EthanApiPlugin",
     "packageId": "EthanApiPlugin",
-    "description": "EthanApiPlugin, required to run PiggyPlugins",
     "mainClassName": "EthanApiPlugin",
-    "id": "ethan-api-plugin",
     "releases": [
       {
-        "date": "2023-08-18",
-        "sha512sum": "FC48B1237EA69B7B13685920F51BE03F02C549324270CE7A40BB02A750C82BA27F5114D8E079384CEE54D801F1B299670931AE2C8AFA96CB60B67ECBB86AD1D6",
         "version": "1.0.0",
         "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/ethan-api-plugin-1.0.0.jar?raw=true",
         "requires": "^1.0.0"
@@ -36,37 +26,217 @@
     ]
   },
   {
-    "projectUrl": "https://discord.gg/kwYBYEg4uu",
-    "provider": "PiggyPlugins",
     "name": "PiggyUtils",
     "packageId": "PiggyUtils",
-    "description": "PiggyUtilsPlugin, required to run PiggyPlugins",
     "mainClassName": "PiggyUtilsPlugin",
-    "id": "piggy-utils-plugin",
     "releases": [
       {
-        "date": "2023-08-18",
-        "sha512sum": "72EC2EF8BF1DCEBA36A45A207018BF34CE033C5D8C20615CED91CC39E76EF2C2B8FCB33DC0E8B75D9A73400730A71007E934A8AACEC184C2D194E5B5F71AEB99",
         "version": "1.0.0",
-        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/piggy-utils-plugin-1.0.0.jar?raw=true",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/piggy-utils-1.0.0.jar?raw=true",
         "requires": "^1.0.0"
       }
     ]
   },
   {
-    "projectUrl": "https://discord.gg/kwYBYEg4uu",
-    "provider": "PiggyPlugins",
-    "name": "OneTickSwitcher",
-    "packageId": "OneTickSwitcher",
-    "description": "One Tick Switcher plugin",
-    "mainClassName": "OneTickSwitcherPlugin",
-    "id": "one-tick-switcher",
+    "name": "AoeWarn",
+    "packageId": "AoeWarn",
+    "mainClassName": "AoeWarningPlugin",
     "releases": [
       {
-        "date": "2023-08-18",
-        "sha512sum": "3A94423426F756B825A6EDAD78558D7D7176CF4D694B63B5F0E134EAB55A4B23280FE79CB198A4E7396A4C51B2F9779BB5D3225E5AA2B92290E530A6A9372F12",
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/aoe-warn-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "OneTickSwitcher",
+    "packageId": "OneTickSwitcher",
+    "mainClassName": "OneTickSwitcherPlugin",
+    "releases": [
+      {
         "version": "1.0.0",
         "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/one-tick-switcher-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "AutoJugHumidifier",
+    "packageId": "AutoJugHumidifier",
+    "mainClassName": "AutoJugHumidifierPlugin",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/auto-jug-humidifier-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "AutoRifts",
+    "packageId": "AutoRifts",
+    "mainClassName": "AutoRiftsPlugin",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/auto-rifts-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "CannonReloader",
+    "packageId": "CannonReloader",
+    "mainClassName": "CannonReloaderPlugin",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/auto-jug-humidifier-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "ChinBreakHandler",
+    "packageId": "ChinBreakHandler",
+    "mainClassName": "ChinBreakHandlerPlugin",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/chin-break-handler-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "HerbCleaner",
+    "packageId": "HerbCleaner",
+    "mainClassName": "HerbCleanerPlugin",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/herb-cleaner-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "ItemCombiner",
+    "packageId": "ItemCombiner",
+    "mainClassName": "ItemCombinerPlugin",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/item-combiner-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "ItemDropper",
+    "packageId": "ItemDropper",
+    "mainClassName": "ItemDropperPlugin",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/item-dropper-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "JadAutoPrayers",
+    "packageId": "JadAutoPrayers",
+    "mainClassName": "JadAutoPrayersPlugin",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/jad-auto-prayers-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "PowerSkiller",
+    "packageId": "PowerSkiller",
+    "mainClassName": "PowerSkillerPlugin",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/power-skiller-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "PrayAgainstPlayer",
+    "packageId": "PrayAgainstPlayer",
+    "mainClassName": "PrayAgainstPlayerPlugin",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/pray-against-player-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "RooftopAgility",
+    "packageId": "RooftopAgility",
+    "mainClassName": "RooftopAgilityPlugin",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/rooftop-agility-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "ShiftClickWalker",
+    "packageId": "ShiftClickWalker",
+    "mainClassName": "ShiftClickWalkerPlugin",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/shift-click-walker-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "SixHourLog",
+    "packageId": "SixHourLog",
+    "mainClassName": "SixHourLogPlugin",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/six-hour-log-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "SpeedDartMaker",
+    "packageId": "SpeedDartMaker",
+    "mainClassName": "SpeedDartMakerPlugin",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/speed-dart-maker-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "name": "VardorvisHelper",
+    "packageId": "VardorvisHelper",
+    "mainClassName": "VardorvisHelperPlugin",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/vardorvis-helper-1.0.0.jar?raw=true",
         "requires": "^1.0.0"
       }
     ]
