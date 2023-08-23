@@ -93,7 +93,7 @@
     "name": "JadAutoPrayers",
     "packageId": "JadAutoPrayers",
     "mainClassName": "JadAutoPrayersPlugin",
-    "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/jad-auto-prayers-1.0.0.jar?raw=true"
+    "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/jad-auto-prayers-1.0.1.jar?raw=true"
   },
   {
     "name": "LavaRunecrafter",
@@ -111,7 +111,7 @@
     "name": "OneTickSwitcher",
     "packageId": "OneTickSwitcher",
     "mainClassName": "OneTickSwitcherPlugin",
-    "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/one-tick-switcher-1.0.0.jar?raw=true"
+    "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/one-tick-switcher-1.0.1.jar?raw=true"
   },
   {
     "name": "PowerSkiller",
